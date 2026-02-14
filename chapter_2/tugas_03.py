@@ -1,10 +1,10 @@
 
-==========================================================
- TUGAS 3 - Analisis Teks dengan Set
- Chapter 2: Struktur Data
- Laboratorium Python & Dasar AI
- Universitas Muhammadiyah Makassar
-==========================================================
+#==========================================================
+ #TUGAS 3 - Analisis Teks dengan Set
+ #Chapter 2: Struktur Data
+ #Laboratorium Python & Dasar AI
+ #Universitas Muhammadiyah Makassar
+#==========================================================
 
 # Definisikan 2 buah string kalimat
 kalimat1 = "belajar pemrograman python sangat menyenangkan dan bermanfaat untuk masa depan mahasiswa"
