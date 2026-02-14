@@ -1,4 +1,4 @@
-"""
+
 ==========================================================
  TUGAS 3 - Analisis Teks dengan Set
  Chapter 2: Struktur Data
