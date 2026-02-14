@@ -42,15 +42,3 @@ print(f"\nKata di salah satu kalimat saja (Symmetric Difference): \n{simetris_di
 # Hitung jumlah kata unik total
 print("-" * 30)
 print(f"Jumlah kata unik total: {len(gabungan)}")
-
-
-# ── Symmetric Difference (kata di SALAH SATU saja) ──────────────────────────
-# TODO: kata_set_1 ^ kata_set_2  ATAU  kata_set_1.symmetric_difference(kata_set_2)
-kata_unik_masing = ...
-
-
-# ── Tampilkan Hasil ──────────────────────────────────────────────────────────
-# TODO: Tampilkan semua hasil operasi set dengan format rapi
-# print(f"Kata di kedua kalimat (intersection): {kata_sama}")
-# print(f"Jumlah kata unik total: {len(semua_kata)}")
-# ...
