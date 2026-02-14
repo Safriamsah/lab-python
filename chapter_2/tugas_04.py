@@ -5,6 +5,7 @@
  Laboratorium Python & Dasar AI
  Universitas Muhammadiyah Makassar
 ==========================================================
+"""
 
 # Buat list berisi 5 tuple koordinat (x, y)
 koordinat = [(1, 2), (4, 6), (7, 1), (2, 9), (5, 3)]
