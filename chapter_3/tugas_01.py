@@ -5,6 +5,7 @@
  Laboratorium Python & Dasar AI
  Universitas Muhammadiyah Makassar
 ==========================================================
+"""
 
 # Fungsi hitung_grade(nilai)
 def hitung_grade(nilai):
