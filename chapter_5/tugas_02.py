@@ -51,7 +51,7 @@ df = pd.DataFrame(data)
 # Sisipkan nama Safriamsah ke dalam data agar sesuai identitas kamu
 df.loc[0, 'Nama'] = 'Safriamsah'
 df.loc[0, 'Jurusan'] = 'Informatika'
-df.loc[0, 'IPK'] = 3.41 # Sesuai dengan IPK aslimu
+df.loc[0, 'IPK'] = 3.17
 
 print("===== DATA MAHASISWA =====")
 print(df.head())
